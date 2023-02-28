@@ -1,0 +1,10 @@
+#t {
+    -fx-fill: red;
+    -fx-font-weight:bold;
+    -fx-font-size:20;
+    -fx-box-reflect:below 10px;
+}
+
+#r1 {
+    -fx-fill: linear-gradient(palegoldenrod, white, black);
+}
